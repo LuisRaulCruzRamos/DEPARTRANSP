@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DEPARTRANSP</string>
+    <string name="municipio">Municipio</string>
+    <string name="seleccione_su_destino">Seleccione su destino:</string>
+    <string-array name="Terminal">
+        <item>Mercado Mayoreo</item>
+        <item>Mercado Roberto Huembes</item>
+        <item>UCA</item>
+        <item>Mercado Ivan Montenegro</item>
+    </string-array>
 </resources>
